@@ -27,3 +27,7 @@
         display: block;
         opacity: 0;
     }
+
+    .material-icons {
+           vertical-align: text-bottom;
+        }
